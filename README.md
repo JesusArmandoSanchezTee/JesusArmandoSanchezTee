@@ -13,7 +13,7 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en mis ti
 
 # Habilidades
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=FFFFFF)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&label=C%23&message=&color=239120&logo=csharp&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=20232A&logo=react&logoColor=61DAFB&label=)
