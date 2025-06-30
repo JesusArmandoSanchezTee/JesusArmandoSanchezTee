@@ -1,13 +1,7 @@
 # 👋 Hola, Soy @JesusArmandoSanchezTee
-Soy desarrollador Full Stack, especializado principalmente en MERN (MongoDB, Express, React y Node.js) con TypeScript, y con experiencia en despliegue y gestión de infraestructuras en AWS, Docker y control de versiones con Git. 🌿
+Desarrollador de software con más de 2 años de experiencia en diseño y mantenimiento de aplicaciones full-stack. Especializado en C#/.NET y React con JavaScript/TypeScript, he implementado APIs RESTful y gestionado bases de datos relacionales (SQL Server, PostgreSQL, MySQL). Mi enfoque incluye la automatización de procesos para mejorar la eficiencia, trabajo bajo metodologías ágiles (SCRUM) y despliegue de infraestructura en AWS y contenedores Docker, usando Git/GitHub para el control de versiones. Apasionado por el aprendizaje continuo y la adopción de nuevas tecnologías como Flutter. :contentReference[oaicite:0]{index=0}
 
 A lo largo de mi carrera he desarrollado proyectos web, móviles y de escritorio. 💻 📱 
-
-Soy maestro en la plataforma de Superprof y TusClasesMX, en donde he impartido clases principalmente de tecnologías backend y frontend. 💻
-
-- 👀 Estoy interesado en encontrar gente entusiasmada por el desarrollo, con ganas de compartir y trabajar en proyectos en conjunto.
-- 🌱 Actualmente me encuentro aprendiendo desarrollo móvil con Flutter y la integración con backend en Node.js.
-- 💚 JavaScript Lover 
 
 Me gusta practicar y desarrollar proyectos con las tecnologías que conozco, con la finalidad de fortalecer los conocimientos adquiridos. 
 
@@ -16,8 +10,9 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en práct
 # Habilidades
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=20232A&logo=react&logoColor=61DAFB&label=)
 
 ## Front-End
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -25,17 +20,15 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en práct
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=react&logoColor=61DAFB&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=FFFFFF&logo=typescript&logoColor=3178C6&label=)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=20232A&logo=react&logoColor=61DAFB&label=)
 
 ## Back-End
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=laravel&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 
 ## Bases de Datos
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
