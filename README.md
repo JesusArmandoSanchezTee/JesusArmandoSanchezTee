@@ -46,6 +46,6 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en mis ti
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=FFFFFF&logo=git&logoColor=F05032&label=)
 
 # Mis estadísticas
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=JesusArmandoSanchezTee&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusArmandoSanchezTee&theme=transparent)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusArmandoSanchezTee&layout=compact&theme=transparent&show_icons=true)
