@@ -17,6 +17,7 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en mis ti
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=20232A&logo=react&logoColor=61DAFB&label=)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Front-End
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -38,13 +39,14 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en mis ti
 ## Bases de Datos
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 ## DevOps
 ![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=amazon-aws&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=FFFFFF&logo=docker&logoColor=2496ED&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=FFFFFF&logo=git&logoColor=F05032&label=)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # Mis estadísticas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusArmandoSanchezTee&theme=transparent)](https://git.io/streak-stats)
