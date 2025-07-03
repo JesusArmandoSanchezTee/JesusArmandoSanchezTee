@@ -26,6 +26,7 @@ En mi repo encontrarás algunos ejercicios "básicos" que he realizado en mis ti
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=FFFFFF&logo=typescript&logoColor=3178C6&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=20232A&logo=react&logoColor=61DAFB&label=)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ## Back-End
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
