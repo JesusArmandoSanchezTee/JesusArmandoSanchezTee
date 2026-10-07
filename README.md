@@ -4,7 +4,7 @@ Soy desarrollador Full Stack con experiencia en diseño y mantenimiento de aplic
 A lo largo de mi carrera he desarrollado proyectos web, móviles y de escritorio. 💻 📱 
 
 - 💖 C# Lover  
-- 📊 Aprendiendo Ciencia de Datos  
+- 📊 Aprendiendo DevOps  
 - 🤝 Me gusta compartir conocimientos y trabajar en proyectos colaborativos  
 
 Me gusta practicar y desarrollar proyectos con las tecnologías que conozco, con la finalidad de fortalecer los conocimientos adquiridos. 
